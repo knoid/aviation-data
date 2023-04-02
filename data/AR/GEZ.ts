@@ -10,6 +10,6 @@ export default defineAirport({
   identifiers: { local: "GEZ" },
   name: "General Rodríguez / EAA",
   radio_helpers: [],
-  reference: { direction: "SE", distance: 5.4 },
+  reference: { direction: "SW", distance: 5.4 },
   runways: [{ type: "dirt", orientations: ["17", "35"] }],
 });
