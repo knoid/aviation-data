@@ -1,0 +1,21 @@
+{
+  "name": "aviation-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node --esm index.ts",
+    "test": "ts-node-test *.test.ts"
+  },
+  "author": "",
+  "license": "SEE LICENSE FILE",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "ts-node-test": "^0.4.1",
+    "typescript": "^5.0.3"
+  },
+  "dependencies": {
+    "glob": "^9.3.2"
+  }
+}
