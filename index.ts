@@ -90,7 +90,8 @@ async function main() {
       await writeFile(
         filterByFieldDir,
         airportType,
-        airports.map(({ coordinates, countryCode, identifiers, name }) => ({
+        airports.map(({ coordinates, countryCode, identifiers, name, type }) => ({
+          type,
           coordinates,
           identifiers,
           name,
@@ -108,8 +109,7 @@ async function main() {
   }
 }
 
-main().then(
-  () => {},
+main().catch(
   (err) => {
     throw err;
   },
