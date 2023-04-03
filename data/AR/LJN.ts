@@ -2,7 +2,7 @@ import { defineAirport } from "../../utils";
 
 export default defineAirport({
   type: "airport",
-  condition: "private",
+  condition: "public",
   controlled: false,
   coordinates: [-34.5505555555556, -59.0791666666667],
   elevation: 25,
