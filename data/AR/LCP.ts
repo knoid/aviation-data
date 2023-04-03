@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 1106,
   frequencies: [],
   identifiers: { local: "LCP" },
-  name: "Loncopué",
+  name: "Loncopué",
   radio_helpers: [],
   reference: { direction: "WSW", distance: 1.6 },
   runways: [{ type: "asphalt", orientations: ["09", "27"] }],

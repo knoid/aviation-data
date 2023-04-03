@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 1800,
   frequencies: [],
   identifiers: { local: "SMC" },
-  name: "Santa María",
+  name: "Santa María",
   radio_helpers: [],
   reference: { direction: "ENE", distance: 1.1 },
   runways: [{ type: "asphalt", orientations: ["18", "36"] }],

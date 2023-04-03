@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 234,
   frequencies: [],
   identifiers: { icao: "SAZC", local: "SUZ", iata: "CSZ" },
-  name: "Coronel Suárez / Brig. D. H. E. Ruiz",
+  name: "Coronel Suárez / Brig. D. H. E. Ruiz",
   radio_helpers: [],
   reference: { direction: "ENE", distance: 1.6 },
   runways: [{ type: "asphalt", orientations: ["17", "35"] }],

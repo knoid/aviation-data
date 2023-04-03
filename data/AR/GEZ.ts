@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 28,
   frequencies: [{ type: "COM", frequency: 123.2 }],
   identifiers: { local: "GEZ" },
-  name: "General Rodríguez / EAA",
+  name: "General Rodríguez / EAA",
   radio_helpers: [],
   reference: { direction: "SW", distance: 5.4 },
   runways: [{ type: "dirt", orientations: ["17", "35"] }],

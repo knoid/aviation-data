@@ -7,7 +7,7 @@ export default defineAirport({
   coordinates: [-34.41055556, -58.72055556],
   frequencies: [],
   identifiers: { local: "HAR" },
-  name: "Benavídez / Arsat",
+  name: "Benavídez / Arsat",
   radio_helpers: [],
   runways: [],
 });

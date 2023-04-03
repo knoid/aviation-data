@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 16,
   frequencies: [{ type: "COM", frequency: 123.45 }],
   identifiers: { local: "GAA" },
-  name: "Gualeguay / Agro Aéreo Gualeguay",
+  name: "Gualeguay / Agro Aéreo Gualeguay",
   radio_helpers: [],
   reference: { direction: "NW", distance: 9.2 },
   runways: [{ type: "dirt", orientations: ["10", "28"] }],

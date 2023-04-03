@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 30,
   frequencies: [],
   identifiers: { local: "MON" },
-  name: "Monje / Fumigaciones González",
+  name: "Monje / Fumigaciones González",
   radio_helpers: [],
   reference: { direction: "W", distance: 1.6 },
   runways: [{ type: "dirt", orientations: ["06", "24"] }],

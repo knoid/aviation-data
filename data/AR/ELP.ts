@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 178,
   frequencies: [],
   identifiers: { local: "ELP" },
-  name: "Club de Planeadores Santa Rosa / Aeródromo el Pampero",
+  name: "Club de Planeadores Santa Rosa / Aeródromo el Pampero",
   radio_helpers: [],
   reference: { direction: "NE", distance: 5.4 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

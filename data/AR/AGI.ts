@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 649,
   frequencies: [],
   identifiers: { icao: "SAVA", local: "AGI" },
-  name: "Piedra del Águila",
+  name: "Piedra del Águila",
   radio_helpers: [],
   reference: { direction: "SSE", distance: 9.2 },
   runways: [{ type: "dirt", orientations: ["05", "23"] }],

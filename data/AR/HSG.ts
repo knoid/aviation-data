@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 82,
   frequencies: [],
   identifiers: { local: "HSG" },
-  name: "Buenos Aires / Sanatorio Güemes",
+  name: "Buenos Aires / Sanatorio Güemes",
   radio_helpers: [],
   runways: [],
 });

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 283,
   frequencies: [],
   identifiers: { local: "SLV" },
-  name: "Embarcación / Salvita",
+  name: "Embarcación / Salvita",
   radio_helpers: [],
   reference: { direction: "E", distance: 3.2 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

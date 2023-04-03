@@ -11,7 +11,7 @@ export default defineAirport({
     { type: "TWR", frequency: 120.1 },
   ],
   identifiers: { icao: "SARP", local: "POS", iata: "PSS" },
-  name: "Posadas / Libertador Gral. D. J. De san Martín",
+  name: "Posadas / Libertador Gral. D. J. De San Martín",
   radio_helpers: [
     { type: "GP/DME", frequency: 333.8 },
     { type: "ILS/LOC", frequency: 109.9 },

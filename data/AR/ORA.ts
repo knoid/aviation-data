@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 357,
   frequencies: [],
   identifiers: { icao: "SASO", local: "ORA", iata: "ORA" },
-  name: "Orán",
+  name: "Orán",
   radio_helpers: [],
   reference: { direction: "S", distance: 1.3 },
   runways: [{ type: "asphalt", orientations: ["02", "20"] }],

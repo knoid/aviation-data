@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 25,
   frequencies: [],
   identifiers: { local: "HCS" },
-  name: "Capilla del Señor / Las Araucarias",
+  name: "Capilla del Señor / Las Araucarias",
   radio_helpers: [],
   reference: { direction: "W", distance: 3.5 },
   runways: [],

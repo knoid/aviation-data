@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 71,
   frequencies: [],
   identifiers: { local: "RST" },
-  name: "Cañada Rosquín / Stiefel",
+  name: "Cañada Rosquín / Stiefel",
   radio_helpers: [],
   reference: { direction: "N", distance: 3.5 },
   runways: [{ type: "dirt", orientations: ["11", "29"] }],

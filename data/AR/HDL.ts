@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 982,
   frequencies: [],
   identifiers: { local: "HDL" },
-  name: "Junín de los Andes / Casa de Lata",
+  name: "Junín de los Andes / Casa de Lata",
   radio_helpers: [],
   reference: { direction: "N", distance: 6.5 },
   runways: [],

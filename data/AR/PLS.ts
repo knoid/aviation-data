@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 98,
   frequencies: [],
   identifiers: { local: "PLS" },
-  name: "Pirané / Estancia la Salvación",
+  name: "Pirané / Estancia la Salvación",
   radio_helpers: [],
   reference: { direction: "NNE", distance: 28 },
   runways: [{ type: "dirt", orientations: ["01", "19"] }],

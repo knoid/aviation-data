@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 58,
   frequencies: [],
   identifiers: { local: "NJB" },
-  name: "Nogoyá / Juan Carlos Bagur",
+  name: "Nogoyá / Juan Carlos Bagur",
   radio_helpers: [],
   reference: { direction: "SW", distance: 2.2 },
   runways: [{ type: "dirt", orientations: ["05", "23"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 61,
   frequencies: [],
   identifiers: { local: "UEL" },
-  name: "Villaguay / El Jagüel",
+  name: "Villaguay / El Jagüel",
   radio_helpers: [],
   reference: { direction: "N", distance: 3.5 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

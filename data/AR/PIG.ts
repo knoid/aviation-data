@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 312,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { icao: "SAZE", local: "PIG" },
-  name: "Pigüé",
+  name: "Pigüé",
   radio_helpers: [],
   runways: [
     { type: "dirt", orientations: ["04", "22"] },

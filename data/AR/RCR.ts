@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 380,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "RCR" },
-  name: "Río Tercero",
+  name: "Río Tercero",
   radio_helpers: [],
   reference: { direction: "E", distance: 0.81 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

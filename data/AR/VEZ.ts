@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 41,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "VEZ" },
-  name: "Gálvez",
+  name: "Gálvez",
   radio_helpers: [],
   reference: { direction: "E", distance: 2.2 },
   runways: [

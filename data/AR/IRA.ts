@@ -11,7 +11,7 @@ export default defineAirport({
     { type: "TWR", frequency: 118.45 },
   ],
   identifiers: { icao: "SAEM", local: "IRA" },
-  name: "Miramar / Aeródromo Juan Domingo Perón",
+  name: "Miramar / Aeródromo Juan Domingo Perón",
   radio_helpers: [],
   reference: { direction: "NW", distance: 2.2 },
   runways: [

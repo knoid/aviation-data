@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 32,
   frequencies: [],
   identifiers: { local: "LVM" },
-  name: "Luján / Ea. Villa María",
+  name: "Luján / Ea. Villa María",
   radio_helpers: [],
   reference: { direction: "S", distance: 4.9 },
   runways: [{ type: "dirt", orientations: ["06", "24"] }],

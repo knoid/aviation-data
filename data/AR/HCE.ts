@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 39,
   frequencies: [],
   identifiers: { local: "HCE" },
-  name: "Heliplataforma / Río Cullen-Hidracentro Total Austral",
+  name: "Heliplataforma / Río Cullen-Hidracentro Total Austral",
   radio_helpers: [],
   runways: [],
 });

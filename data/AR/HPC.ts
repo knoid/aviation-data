@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 393,
   frequencies: [],
   identifiers: { local: "HPC" },
-  name: "Córdoba / Policía Provincia de Córdoba",
+  name: "Córdoba / Policía Provincia de Córdoba",
   radio_helpers: [],
   reference: { direction: "W", distance: 0 },
   runways: [],

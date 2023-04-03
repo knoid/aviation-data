@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 23,
   frequencies: [],
   identifiers: { local: "HSD" },
-  name: "Moreno / Country Club san Diego",
+  name: "Moreno / Country Club San Diego",
   radio_helpers: [],
   reference: { direction: "NW", distance: 4 },
   runways: [],

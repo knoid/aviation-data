@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 82,
   frequencies: [],
   identifiers: { local: "HSJ" },
-  name: "Curuzú Cuatiá / Estancia san Juan",
+  name: "Curuzú Cuatiá / Estancia San Juan",
   radio_helpers: [],
   reference: { direction: "N", distance: 11 },
   runways: [{ type: "dirt", orientations: ["07", "25"] }],

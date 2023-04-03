@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 249,
   frequencies: [],
   identifiers: { local: "CDL" },
-  name: "Cañada de Luque / Biondi",
+  name: "Cañada de Luque / Biondi",
   radio_helpers: [],
   reference: { direction: "SW", distance: 1.6 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

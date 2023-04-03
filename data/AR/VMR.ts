@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 202,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { icao: "SAOV", local: "VMR" },
-  name: "Villa María / Aeropuerto Regional",
+  name: "Villa María / Aeropuerto Regional",
   radio_helpers: [],
   reference: { direction: "N", distance: 4.9 },
   runways: [{ type: "concrete", orientations: ["02", "20"] }],

@@ -11,7 +11,7 @@ export default defineAirport({
     { type: "TWR", frequency: 119.6 },
   ],
   identifiers: { icao: "SAAP", local: "PAR", iata: "PRA" },
-  name: "Paraná / Aeropuerto General Justo José De Urquiza",
+  name: "Paraná / Aeropuerto General Justo José De Urquiza",
   radio_helpers: [
     { type: "GP/DME", frequency: 335 },
     { type: "ILS/LOC", frequency: 110.3 },

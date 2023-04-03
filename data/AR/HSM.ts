@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 3,
   frequencies: [],
   identifiers: { local: "HSM" },
-  name: "Tigre / Isla Santa Mónica",
+  name: "Tigre / Isla Santa Mónica",
   radio_helpers: [],
   runways: [],
 });

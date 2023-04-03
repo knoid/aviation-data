@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 53,
   frequencies: [],
   identifiers: { local: "CHJ" },
-  name: "Chajarí",
+  name: "Chajarí",
   radio_helpers: [],
   reference: { direction: "W", distance: 0.81 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

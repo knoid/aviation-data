@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 60,
   frequencies: [],
   identifiers: { local: "NOT" },
-  name: "Nogoyá / Tognoli",
+  name: "Nogoyá / Tognoli",
   radio_helpers: [],
   reference: { direction: "SW", distance: 5.1 },
   runways: [{ type: "dirt", orientations: ["16", "34"] }],

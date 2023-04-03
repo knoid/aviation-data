@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 392,
   frequencies: [],
   identifiers: { local: "HBI" },
-  name: "Córdoba / Centro Cívico Bicentenario",
+  name: "Córdoba / Centro Cívico Bicentenario",
   radio_helpers: [],
   reference: { direction: "SSE", distance: 6.5 },
   runways: [],

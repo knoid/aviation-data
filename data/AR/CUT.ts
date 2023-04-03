@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 650,
   frequencies: [{ type: "AFIS", frequency: 122.3 }],
   identifiers: { icao: "SAZW", local: "CUT", iata: "CUT" },
-  name: "Cutral có",
+  name: "Cutral Có",
   radio_helpers: [],
   reference: { direction: "WSW", distance: 1.1 },
   runways: [

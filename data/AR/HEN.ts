@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 53,
   frequencies: [],
   identifiers: { local: "HEN" },
-  name: "Bahía san Sebastián / Planta Cruz del sur",
+  name: "Bahía San Sebastián / Planta Cruz del Sur",
   radio_helpers: [],
   reference: { direction: "NW", distance: 35 },
   runways: [],

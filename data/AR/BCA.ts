@@ -13,7 +13,7 @@ export default defineAirport({
     { type: "TWR", frequency: 119.15 },
   ],
   identifiers: { icao: "SAZB", local: "BCA", iata: "BHI" },
-  name: "Bahía Blanca / Cte. Espora",
+  name: "Bahía Blanca / Cte. Espora",
   radio_helpers: [
     { type: "GP/DME", frequency: 333.2 },
     { type: "ILS/LOC", frequency: 109.7 },

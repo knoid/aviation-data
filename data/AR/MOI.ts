@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 489,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "MOI" },
-  name: "Corralito / Don Moisés",
+  name: "Corralito / Don Moisés",
   radio_helpers: [],
   reference: { direction: "S", distance: 0.81 },
   runways: [

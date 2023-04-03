@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 700,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "CQN" },
-  name: "Cosquín / Santa María",
+  name: "Cosquín / Santa María",
   radio_helpers: [],
   reference: { direction: "SSE", distance: 2.4 },
   runways: [{ type: "dirt", orientations: ["03", "21"] }],

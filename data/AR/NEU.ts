@@ -13,7 +13,7 @@ export default defineAirport({
     { type: "TWR", frequency: 119.8 },
   ],
   identifiers: { icao: "SAZN", local: "NEU", iata: "NQN" },
-  name: "Neuquén / Presidente Perón",
+  name: "Neuquén / Presidente Perón",
   radio_helpers: [
     { type: "GP/DME", frequency: 700.3 },
     { type: "ILS/LOC", frequency: 110.3 },

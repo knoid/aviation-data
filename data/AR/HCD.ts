@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 914,
   frequencies: [],
   identifiers: { local: "HCD" },
-  name: "San Martín de los Andes / Ea. la Candelaria",
+  name: "San Martín de los Andes / Ea. la Candelaria",
   radio_helpers: [],
   reference: { direction: "N", distance: 7 },
   runways: [],

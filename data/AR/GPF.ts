@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 139,
   frequencies: [],
   identifiers: { local: "GPF" },
-  name: "General Pico / Cereales Anahí Ruca",
+  name: "General Pico / Cereales Anahí Ruca",
   radio_helpers: [],
   reference: { direction: "E", distance: 1.6 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 600,
   frequencies: [],
   identifiers: { local: "HLU" },
-  name: "Luján / Transener S.A.",
+  name: "Luján / Transener S.A.",
   radio_helpers: [],
   reference: { direction: "W", distance: 4.9 },
   runways: [],

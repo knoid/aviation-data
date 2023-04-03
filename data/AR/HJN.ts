@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 859,
   frequencies: [],
   identifiers: { local: "HJN" },
-  name: "Junín de los Andes / Estancia Palitue",
+  name: "Junín de los Andes / Estancia Palitue",
   radio_helpers: [],
   reference: { direction: "N", distance: 5.4 },
   runways: [],

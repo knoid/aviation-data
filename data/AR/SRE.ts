@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 130,
   frequencies: [],
   identifiers: { local: "SRE" },
-  name: "Santa Regina / Fortín de Gainza",
+  name: "Santa Regina / Fortín de Gainza",
   radio_helpers: [],
   reference: { direction: "E", distance: 1.6 },
   runways: [{ type: "dirt", orientations: ["16", "34"] }],

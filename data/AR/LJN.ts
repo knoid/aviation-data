@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 25,
   frequencies: [{ type: "COM", frequency: 120.2 }],
   identifiers: { local: "LJN" },
-  name: "Luján",
+  name: "Luján",
   radio_helpers: [],
   reference: { direction: "ENE", distance: 1.1 },
   runways: [{ type: "dirt", orientations: ["16", "34"] }],

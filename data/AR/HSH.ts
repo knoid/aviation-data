@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 47,
   frequencies: [],
   identifiers: { local: "HSH" },
-  name: "San Andrés de Giles / Hospital Municipal",
+  name: "San Andrés de Giles / Hospital Municipal",
   radio_helpers: [],
   runways: [],
 });

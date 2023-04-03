@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 1260,
   frequencies: [],
   identifiers: { local: "HGB" },
-  name: "Salta / Centro Cívico Grand Bourg",
+  name: "Salta / Centro Cívico Grand Bourg",
   radio_helpers: [],
   reference: { direction: "NE", distance: 2.2 },
   runways: [],

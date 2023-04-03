@@ -7,7 +7,7 @@ export default defineAirport({
   coordinates: [-33.00555556, -60.74777778],
   frequencies: [],
   identifiers: { local: "HPR" },
-  name: "Helipuerto Pérez / Planta Rossi",
+  name: "Helipuerto Pérez / Planta Rossi",
   radio_helpers: [],
   runways: [],
 });

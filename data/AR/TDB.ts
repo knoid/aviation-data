@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 87,
   frequencies: [],
   identifiers: { local: "TDB" },
-  name: "El Trébol / De Bernardo",
+  name: "El Trébol / De Bernardo",
   radio_helpers: [],
   reference: { direction: "SE", distance: 3.8 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 3600,
   frequencies: [],
   identifiers: { local: "HPS" },
-  name: "Pachón / Helipuerto Pachón Minera S.A",
+  name: "Pachón / Helipuerto Pachón Minera S.A",
   radio_helpers: [],
   runways: [],
 });

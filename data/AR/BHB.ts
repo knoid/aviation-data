@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 15,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "BHB" },
-  name: "Bahía Blanca / Aeroclub",
+  name: "Bahía Blanca / Aeroclub",
   radio_helpers: [],
   reference: { direction: "NW", distance: 4.9 },
   runways: [

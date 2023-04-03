@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 666,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "VRU" },
-  name: "Villa Rumipal / Primer Teniente Mario Nívoli",
+  name: "Villa Rumipal / Primer Teniente Mario Nívoli",
   radio_helpers: [],
   reference: { direction: "ENE", distance: 0 },
   runways: [{ type: "asphalt", orientations: ["16", "34"] }],

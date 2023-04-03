@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 125,
   frequencies: [],
   identifiers: { local: "CTP" },
-  name: "Catriló / Establecimiento la María Pilar",
+  name: "Catriló / Establecimiento la María Pilar",
   radio_helpers: [],
   reference: { direction: "S", distance: 4.9 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

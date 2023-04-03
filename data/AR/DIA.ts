@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 34,
   frequencies: [{ type: "TWR", frequency: 118.3 }],
   identifiers: { icao: "SAAC", local: "DIA", iata: "COC" },
-  name: "Concordia / Comodoro Juan José Pierrestegui",
+  name: "Concordia / Comodoro Juan José Pierrestegui",
   radio_helpers: [],
   reference: { direction: "N", distance: 6.5 },
   runways: [{ type: "asphalt", orientations: ["04", "22"] }],

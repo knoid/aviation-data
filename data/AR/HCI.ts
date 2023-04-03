@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 12,
   frequencies: [],
   identifiers: { local: "HCI" },
-  name: "Belén de Escobar / Cabaña san Isidro Labrador I",
+  name: "Belén de Escobar / Cabaña San Isidro Labrador I",
   radio_helpers: [],
   reference: { direction: "SSE", distance: 1.6 },
   runways: [],

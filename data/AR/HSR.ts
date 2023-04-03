@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 374,
   frequencies: [],
   identifiers: { local: "HSR" },
-  name: "Santa Cruz / Estancia san Ramón",
+  name: "Santa Cruz / Estancia San Ramón",
   radio_helpers: [],
   reference: { direction: "SW", distance: 56 },
   runways: [],

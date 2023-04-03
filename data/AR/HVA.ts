@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 3,
   frequencies: [],
   identifiers: { local: "HVA" },
-  name: "Tigre / Villa la Ñata",
+  name: "Tigre / Villa la Ñata",
   radio_helpers: [],
   reference: { direction: "NW", distance: 4.6 },
   runways: [],

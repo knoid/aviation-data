@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 72,
   frequencies: [],
   identifiers: { local: "CHC" },
-  name: "Chajarí / Estancia la Choza",
+  name: "Chajarí / Estancia la Choza",
   radio_helpers: [],
   reference: { direction: "NW", distance: 21 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

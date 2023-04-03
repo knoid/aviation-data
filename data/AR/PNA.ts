@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 46,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "PNA" },
-  name: "Paraná / Club de Planeadores",
+  name: "Paraná / Club de Planeadores",
   radio_helpers: [],
   reference: { direction: "E", distance: 16 },
   runways: [{ type: "dirt", orientations: ["01", "19"] }],

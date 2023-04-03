@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 230,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "VMK" },
-  name: "Vicuña Mackenna / Martín Fierro",
+  name: "Vicuña Mackenna / Martín Fierro",
   radio_helpers: [],
   reference: { direction: "SSE", distance: 1.1 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

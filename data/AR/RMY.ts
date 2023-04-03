@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 544,
   frequencies: [],
   identifiers: { icao: "SAWM", local: "RMY", iata: "ROY" },
-  name: "Río Mayo",
+  name: "Río Mayo",
   radio_helpers: [],
   reference: { direction: "S", distance: 1.6 },
   runways: [{ type: "dirt", orientations: ["09", "27"] }],

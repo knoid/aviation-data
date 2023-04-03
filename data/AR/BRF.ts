@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 67,
   frequencies: [],
   identifiers: { local: "BRF" },
-  name: "Bahía Blanca / La Reforma",
+  name: "Bahía Blanca / La Reforma",
   radio_helpers: [],
   reference: { direction: "W", distance: 48 },
   runways: [{ type: "dirt", orientations: ["16", "34"] }],

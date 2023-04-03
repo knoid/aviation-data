@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 843,
   frequencies: [],
   identifiers: { local: "MTN" },
-  name: "Metán",
+  name: "Metán",
   radio_helpers: [],
   reference: { direction: "NW", distance: 1.1 },
   runways: [{ type: "dirt", orientations: ["04", "22"] }],

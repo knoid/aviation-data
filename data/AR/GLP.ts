@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 20,
   frequencies: [],
   identifiers: { local: "GLP" },
-  name: "Gualeguaychú / Ea la Providencia",
+  name: "Gualeguaychú / Ea la Providencia",
   radio_helpers: [],
   reference: { direction: "N", distance: 4.3 },
   runways: [{ type: "dirt", orientations: ["01", "19"] }],

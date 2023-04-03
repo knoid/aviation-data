@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 5,
   frequencies: [{ type: "COM", frequency: 127 }],
   identifiers: { local: "HDA" },
-  name: "Buenos Aires / Dársena sur",
+  name: "Buenos Aires / Dársena sur",
   radio_helpers: [],
   reference: { direction: "W", distance: 0 },
   runways: [],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 33,
   frequencies: [],
   identifiers: { local: "HRW" },
-  name: "Río Grande / Helipuerto ea. Río Ewan",
+  name: "Río Grande / Helipuerto ea. Río Ewan",
   radio_helpers: [],
   reference: { direction: "SE", distance: 32 },
   runways: [],

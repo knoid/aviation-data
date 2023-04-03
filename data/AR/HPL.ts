@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 520,
   frequencies: [],
   identifiers: { local: "HPL" },
-  name: "La Rioja / Helipuerto Policía Provincial C.A.P.E.",
+  name: "La Rioja / Helipuerto Policía Provincial C.A.P.E.",
   radio_helpers: [],
   reference: { direction: "SSW", distance: 1.4 },
   runways: [],

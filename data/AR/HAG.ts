@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 10,
   frequencies: [],
   identifiers: { local: "HAG" },
-  name: "Luján / Sol de Agosto",
+  name: "Luján / Sol de Agosto",
   radio_helpers: [],
   reference: { direction: "E", distance: 2.7 },
   runways: [],

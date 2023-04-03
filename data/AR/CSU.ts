@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 69,
   frequencies: [],
   identifiers: { local: "CSU" },
-  name: "Chajarí / Sur",
+  name: "Chajarí / Sur",
   radio_helpers: [],
   reference: { direction: "SSW", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["03", "21"] }],

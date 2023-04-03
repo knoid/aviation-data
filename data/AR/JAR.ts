@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 160,
   frequencies: [],
   identifiers: { local: "JAR" },
-  name: "Jacinto Aráuz",
+  name: "Jacinto Aráuz",
   radio_helpers: [],
   reference: { direction: "N", distance: 0.54 },
   runways: [{ type: "asphalt", orientations: ["18", "36"] }],

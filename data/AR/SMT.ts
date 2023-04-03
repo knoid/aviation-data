@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 161,
   frequencies: [],
   identifiers: { local: "SMT" },
-  name: "General san Martín",
+  name: "General San Martín",
   radio_helpers: [],
   reference: { direction: "N", distance: 0.81 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

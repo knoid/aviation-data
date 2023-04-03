@@ -11,7 +11,7 @@ export default defineAirport({
     { type: "TWR", frequency: 118.7 },
   ],
   identifiers: { icao: "SASJ", local: "JUJ", iata: "JUJ" },
-  name: "Jujuy / Gobernador Guzmán",
+  name: "Jujuy / Gobernador Guzmán",
   radio_helpers: [
     { type: "GP/DME", frequency: 334.4 },
     { type: "ILS/LOC", frequency: 110.1 },

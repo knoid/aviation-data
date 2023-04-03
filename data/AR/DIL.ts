@@ -12,7 +12,7 @@ export default defineAirport({
     { type: "TWR", frequency: 120.9 },
   ],
   identifiers: { icao: "SAZT", local: "DIL", iata: "TDL" },
-  name: "Tandil / Héroes de Malvinas",
+  name: "Tandil / Héroes de Malvinas",
   radio_helpers: [
     { type: "GP", frequency: 333.8 },
     { type: "ILS/LOC", frequency: 109.9 },

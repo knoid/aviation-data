@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 510,
   frequencies: [{ type: "COM", frequency: 120.6 }],
   identifiers: { local: "MEZ" },
-  name: "Córdoba / La Mezquita",
+  name: "Córdoba / La Mezquita",
   radio_helpers: [],
   reference: { direction: "W", distance: 3.2 },
   runways: [{ type: "dirt", orientations: ["01", "19"] }],

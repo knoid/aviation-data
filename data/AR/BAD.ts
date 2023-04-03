@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 67,
   frequencies: [],
   identifiers: { local: "BAD" },
-  name: "Berón de Astrada / Dinaluca S.A.",
+  name: "Berón de Astrada / Dinaluca S.A.",
   radio_helpers: [],
   reference: { direction: "NNW", distance: 11 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

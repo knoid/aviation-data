@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 397,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "TVN" },
-  name: "Trevelín",
+  name: "Trevelín",
   radio_helpers: [],
   reference: { direction: "WSW", distance: 1.1 },
   runways: [{ type: "dirt", orientations: ["04", "22"] }],

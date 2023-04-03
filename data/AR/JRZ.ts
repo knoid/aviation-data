@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 212,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { icao: "SAZJ", local: "JRZ" },
-  name: "Juárez",
+  name: "Juárez",
   radio_helpers: [],
   reference: { direction: "SSW", distance: 1.6 },
   runways: [

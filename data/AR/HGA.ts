@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 30,
   frequencies: [],
   identifiers: { local: "HGA" },
-  name: "Cañuelas / Cañuelas gas S.A.",
+  name: "Cañuelas / Cañuelas gas S.A.",
   radio_helpers: [],
   reference: { direction: "WSW", distance: 4.9 },
   runways: [],

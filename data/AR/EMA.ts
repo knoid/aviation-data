@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 718,
   frequencies: [{ type: "AFIS", frequency: 118.4 }],
   identifiers: { icao: "SAVD", local: "EMA", iata: "EMX" },
-  name: "El Maitén",
+  name: "El Maitén",
   radio_helpers: [],
   reference: { direction: "N", distance: 1.6 },
   runways: [

@@ -14,7 +14,7 @@ export default defineAirport({
     { type: "TWR", frequency: 119.5 },
   ],
   identifiers: { icao: "SANT", local: "TUC", iata: "TUC" },
-  name: "Tucumán / Teniente Benjamín Matienzo",
+  name: "Tucumán / Teniente Benjamín Matienzo",
   radio_helpers: [
     { type: "GP/DME", frequency: 333.8 },
     { type: "ILS/LOC", frequency: 109.9 },

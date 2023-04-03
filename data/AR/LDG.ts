@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 80,
   frequencies: [{ type: "COM", frequency: 123 }],
   identifiers: { local: "LDG" },
-  name: "Laguna de Gómez",
+  name: "Laguna de Gómez",
   radio_helpers: [],
   reference: { direction: "SSW", distance: 5.9 },
   runways: [{ type: "dirt", orientations: ["03", "21"] }],

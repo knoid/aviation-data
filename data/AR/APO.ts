@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 117,
   frequencies: [{ type: "COM", frequency: 132 }],
   identifiers: { local: "APO" },
-  name: "Apóstoles",
+  name: "Apóstoles",
   radio_helpers: [],
   reference: { direction: "NW", distance: 0.86 },
   runways: [{ type: "asphalt", orientations: ["06", "24"] }],

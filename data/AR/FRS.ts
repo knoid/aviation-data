@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 330,
   frequencies: [],
   identifiers: { local: "FRS" },
-  name: "Frías",
+  name: "Frías",
   radio_helpers: [],
   reference: { direction: "NE", distance: 1.1 },
   runways: [{ type: "asphalt", orientations: ["13", "31"] }],

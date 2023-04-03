@@ -12,7 +12,7 @@ export default defineAirport({
     { type: "TWR", frequency: 118.5 },
   ],
   identifiers: { icao: "SADM", local: "MOR" },
-  name: "Morón",
+  name: "Morón",
   radio_helpers: [],
   reference: { direction: "SW", distance: 1.6 },
   runways: [{ type: "concrete", orientations: ["02", "20"] }],

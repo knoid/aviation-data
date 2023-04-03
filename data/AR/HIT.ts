@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 71,
   frequencies: [],
   identifiers: { local: "HIT" },
-  name: "Ituzaingó / Transener",
+  name: "Ituzaingó / Transener",
   radio_helpers: [],
   reference: { direction: "NNE", distance: 2.2 },
   runways: [],

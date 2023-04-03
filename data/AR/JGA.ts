@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 1184,
   frequencies: [],
   identifiers: { local: "JGA" },
-  name: "Joaquín V. González / Agropecuaria Río Juramento",
+  name: "Joaquín V. González / Agropecuaria Río Juramento",
   radio_helpers: [],
   reference: { direction: "SE", distance: 4.3 },
   runways: [{ type: "asphalt", orientations: ["11", "29"] }],

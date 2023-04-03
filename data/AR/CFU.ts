@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 111,
   frequencies: [],
   identifiers: { local: "CFU" },
-  name: "Carhué / Fumagro",
+  name: "Carhué / Fumagro",
   radio_helpers: [],
   reference: { direction: "SW", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["10", "28"] }],

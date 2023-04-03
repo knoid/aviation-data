@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 106,
   frequencies: [],
   identifiers: { local: "RVA" },
-  name: "América",
+  name: "América",
   radio_helpers: [],
   reference: { direction: "SW", distance: 0.54 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

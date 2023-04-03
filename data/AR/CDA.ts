@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 56,
   frequencies: [],
   identifiers: { local: "CDA" },
-  name: "Sargento Cabral / Cóndor del Aire",
+  name: "Sargento Cabral / Cóndor del Aire",
   radio_helpers: [],
   reference: { direction: "S", distance: 2.2 },
   runways: [{ type: "dirt", orientations: ["05", "23"] }],

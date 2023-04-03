@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 243,
   frequencies: [],
   identifiers: { local: "VMC" },
-  name: "Vicuña Mackenna / Comequechen",
+  name: "Vicuña Mackenna / Comequechen",
   radio_helpers: [],
   reference: { direction: "SW", distance: 1.6 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

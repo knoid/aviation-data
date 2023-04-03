@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 30,
   frequencies: [],
   identifiers: { local: "PLC" },
-  name: "Piñero / Ea. la Carolina",
+  name: "Piñero / Ea. la Carolina",
   radio_helpers: [],
   reference: { direction: "NE", distance: 4.3 },
   runways: [{ type: "dirt", orientations: ["09", "27"] }],

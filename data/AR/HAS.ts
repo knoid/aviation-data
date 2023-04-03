@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 16,
   frequencies: [],
   identifiers: { local: "HAS" },
-  name: "Paraná / Amarras del sol",
+  name: "Paraná / Amarras del sol",
   radio_helpers: [],
   reference: { direction: "NE", distance: 2.2 },
   runways: [],

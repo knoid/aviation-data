@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 495,
   frequencies: [{ type: "COM", frequency: 123 }],
   identifiers: { local: "JCM" },
-  name: "Juárez Celman / Brig. My. Juan Ignacio san Martín",
+  name: "Juárez Celman / Brig. My. Juan Ignacio San Martín",
   radio_helpers: [],
   reference: { direction: "N", distance: 11 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

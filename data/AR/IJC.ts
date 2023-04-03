@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 892,
   frequencies: [{ type: "AFIS", frequency: 122.3 }],
   identifiers: { icao: "SAVJ", local: "IJC", iata: "IGB" },
-  name: "Ingeniero Jacobacci / Cabo F.A.A. H. R. Bordón",
+  name: "Ingeniero Jacobacci / Cabo F.A.A. H. R. Bordón",
   radio_helpers: [],
   reference: { direction: "WNW", distance: 1.3 },
   runways: [{ type: "asphalt", orientations: ["07", "25"] }],

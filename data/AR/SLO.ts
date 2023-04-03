@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 127,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "SLO" },
-  name: "Salliqueló",
+  name: "Salliqueló",
   radio_helpers: [],
   reference: { direction: "SE", distance: 0.76 },
   runways: [{ type: "dirt", orientations: ["12", "30"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 5,
   frequencies: [],
   identifiers: { local: "HMH" },
-  name: "San Fernando / Paraná Miní",
+  name: "San Fernando / Paraná Miní",
   radio_helpers: [],
   reference: { direction: "E", distance: 0 },
   runways: [],

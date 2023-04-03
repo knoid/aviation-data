@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 8,
   frequencies: [],
   identifiers: { local: "HPA" },
-  name: "Buenos Aires / Presidencia de la Nación",
+  name: "Buenos Aires / Presidencia de la Nación",
   radio_helpers: [],
   runways: [],
 });

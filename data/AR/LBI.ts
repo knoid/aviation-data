@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 81,
   frequencies: [{ type: "COM", frequency: 123.2 }],
   identifiers: { local: "LBI" },
-  name: "Lobería",
+  name: "Lobería",
   radio_helpers: [],
   reference: { direction: "S", distance: 1.3 },
   runways: [

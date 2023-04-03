@@ -11,7 +11,7 @@ export default defineAirport({
     { type: "TWR", frequency: 118.4 },
   ],
   identifiers: { icao: "SAOU", local: "UIS", iata: "LUQ" },
-  name: "San Luis / Brig. My D. César R. Ojeda",
+  name: "San Luis / Brig. My D. César R. Ojeda",
   radio_helpers: [],
   reference: { direction: "NW", distance: 2.1 },
   runways: [{ type: "asphalt", orientations: ["01", "19"] }],

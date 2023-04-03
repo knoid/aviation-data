@@ -11,7 +11,7 @@ export default defineAirport({
     { type: "TWR", frequency: 118.25 },
   ],
   identifiers: { icao: "SAMM", local: "MLG", iata: "LGS" },
-  name: "Malargüe / Comodoro D. R. Salomón",
+  name: "Malargüe / Comodoro D. R. Salomón",
   radio_helpers: [{ type: "VOR/DME", frequency: 117.2 }],
   reference: { direction: "S", distance: 0.54 },
   runways: [

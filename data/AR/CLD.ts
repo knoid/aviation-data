@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 112,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "CLD" },
-  name: "Chañear Ladeado",
+  name: "Chañear Ladeado",
   radio_helpers: [],
   runways: [{ type: "dirt", orientations: ["17", "35"] }],
 });

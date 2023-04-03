@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 734,
   frequencies: [],
   identifiers: { icao: "SAWS", local: "JSM", iata: "JSM" },
-  name: "José De san Martín",
+  name: "José De San Martín",
   radio_helpers: [],
   runways: [
     { type: "dirt", orientations: ["06", "24"] },

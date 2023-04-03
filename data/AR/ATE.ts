@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 26,
   frequencies: [{ type: "COM", frequency: 123.55 }],
   identifiers: { local: "ATE" },
-  name: "Zárate",
+  name: "Zárate",
   radio_helpers: [],
   reference: { direction: "SW", distance: 3.2 },
   runways: [

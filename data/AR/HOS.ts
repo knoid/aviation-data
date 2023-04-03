@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 154,
   frequencies: [],
   identifiers: { local: "HOS" },
-  name: "Heliplataforma Móvil / Ocean Scepter",
+  name: "Heliplataforma Móvil / Ocean Scepter",
   radio_helpers: [],
   runways: [],
 });

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 20,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "CLN" },
-  name: "Colón (Entre Ríos)",
+  name: "Colón (Entre Ríos)",
   radio_helpers: [],
   reference: { direction: "S", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

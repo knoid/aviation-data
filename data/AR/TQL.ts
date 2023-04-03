@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 92,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "TQL" },
-  name: "Trenque Lauquen / Ñanco Lauquen",
+  name: "Trenque Lauquen / Ñanco Lauquen",
   radio_helpers: [],
   reference: { direction: "W", distance: 1.9 },
   runways: [{ type: "asphalt", orientations: ["02", "20"] }],

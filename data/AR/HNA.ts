@@ -7,7 +7,7 @@ export default defineAirport({
   coordinates: [-25.34583333, -64.45527778],
   frequencies: [],
   identifiers: { local: "HNA" },
-  name: "El Galpón / Nitratos Austin sa",
+  name: "El Galpón / Nitratos Austin sa",
   radio_helpers: [],
   runways: [],
 });

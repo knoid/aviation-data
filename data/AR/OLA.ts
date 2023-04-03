@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 168,
   frequencies: [{ type: "AFIS", frequency: 118.1 }],
   identifiers: { icao: "SAZF", local: "OLA", iata: "OVR" },
-  name: "Olavarría",
+  name: "Olavarría",
   radio_helpers: [],
   reference: { direction: "ENE", distance: 5.9 },
   runways: [

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 21,
   frequencies: [],
   identifiers: { local: "HMC" },
-  name: "Garín / Miraflores Country Club",
+  name: "Garín / Miraflores Country Club",
   radio_helpers: [],
   reference: { direction: "S", distance: 1.4 },
   runways: [],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 27,
   frequencies: [],
   identifiers: { local: "GEP" },
-  name: "Gualeguaychú / El Potrero",
+  name: "Gualeguaychú / El Potrero",
   radio_helpers: [],
   reference: { direction: "WNW", distance: 13 },
   runways: [{ type: "dirt", orientations: ["08", "26"] }],

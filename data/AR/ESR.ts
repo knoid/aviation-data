@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 88,
   frequencies: [],
   identifiers: { local: "ESR" },
-  name: "El Espinillo / Estancia san Rafael",
+  name: "El Espinillo / Estancia San Rafael",
   radio_helpers: [],
   reference: { direction: "SE", distance: 4.3 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

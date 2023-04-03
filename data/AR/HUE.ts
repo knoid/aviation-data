@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 110,
   frequencies: [],
   identifiers: { local: "HUE" },
-  name: "Carhué",
+  name: "Carhué",
   radio_helpers: [],
   reference: { direction: "SW", distance: 0.81 },
   runways: [

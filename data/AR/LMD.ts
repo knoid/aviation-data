@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 137,
   frequencies: [],
   identifiers: { local: "LMD" },
-  name: "Juan N. Fernández / La Madrugada",
+  name: "Juan N. Fernández / La Madrugada",
   radio_helpers: [],
   reference: { direction: "W", distance: 3.8 },
   runways: [{ type: "dirt", orientations: ["01", "19"] }],

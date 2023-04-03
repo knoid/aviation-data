@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 68,
   frequencies: [],
   identifiers: { local: "CII" },
-  name: "Corrientes / Ita Ibaté",
+  name: "Corrientes / Ita Ibaté",
   radio_helpers: [],
   reference: { direction: "WSW", distance: 4.3 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

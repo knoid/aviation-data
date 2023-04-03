@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 207,
   frequencies: [],
   identifiers: { local: "VNS" },
-  name: "Villa Nueva / Suárez Aviación",
+  name: "Villa Nueva / Suárez Aviación",
   radio_helpers: [],
   reference: { direction: "WSW", distance: 3.2 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

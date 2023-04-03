@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 317,
   frequencies: [],
   identifiers: { local: "NST" },
-  name: "Nuestra Señora de Talavera / Finca Toloche",
+  name: "Nuestra Señora de Talavera / Finca Toloche",
   radio_helpers: [],
   reference: { direction: "NW", distance: 4.3 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

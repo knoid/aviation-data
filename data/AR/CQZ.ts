@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 55,
   frequencies: [],
   identifiers: { local: "CQZ" },
-  name: "Cañada Quiróz",
+  name: "Cañada Quiróz",
   radio_helpers: [],
   reference: { direction: "SE", distance: 8.1 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

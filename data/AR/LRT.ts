@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 98,
   frequencies: [],
   identifiers: { local: "LRT" },
-  name: "Las Rosas / Horizonte Aplicaciones Aéreas",
+  name: "Las Rosas / Horizonte Aplicaciones Aéreas",
   radio_helpers: [],
   reference: { direction: "SE", distance: 3.2 },
   runways: [{ type: "dirt", orientations: ["17", "35"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 111,
   frequencies: [],
   identifiers: { local: "TBL" },
-  name: "El Trébol / Burdisso",
+  name: "El Trébol / Burdisso",
   radio_helpers: [],
   reference: { direction: "SW", distance: 3.8 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

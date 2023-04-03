@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 10,
   frequencies: [{ type: "COM", frequency: 123.2 }],
   identifiers: { local: "MUS" },
-  name: "Chascomús",
+  name: "Chascomús",
   radio_helpers: [],
   reference: { direction: "NW", distance: 2.7 },
   runways: [{ type: "asphalt", orientations: ["04", "22"] }],

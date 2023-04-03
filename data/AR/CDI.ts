@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 89,
   frequencies: [],
   identifiers: { local: "CDI" },
-  name: "Carcarañá / Di Giuseppe",
+  name: "Carcarañá / Di Giuseppe",
   radio_helpers: [],
   reference: { direction: "SE", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["11", "29"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 17,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "VNA" },
-  name: "Verónica",
+  name: "Verónica",
   radio_helpers: [],
   reference: { direction: "SW", distance: 1.3 },
   runways: [

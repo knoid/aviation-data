@@ -11,7 +11,7 @@ export default defineAirport({
     { type: "TWR", frequency: 118.75 },
   ],
   identifiers: { icao: "SAOC", local: "TRC", iata: "RCU" },
-  name: "Río Cuarto / Área de Material",
+  name: "Río Cuarto / Área de Material",
   radio_helpers: [
     { type: "GP/DME", frequency: 330.8 },
     { type: "ILS/LOC", frequency: 110.9 },

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 691,
   frequencies: [],
   identifiers: { local: "JAH" },
-  name: "Junín de los Andes / Hostería san Huberto",
+  name: "Junín de los Andes / Hostería San Huberto",
   radio_helpers: [],
   reference: { direction: "NE", distance: 12 },
   runways: [{ type: "dirt", orientations: ["12", "30"] }],

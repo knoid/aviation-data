@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 30,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "SNY" },
-  name: "San Nicolás de los Arroyos",
+  name: "San Nicolás de los Arroyos",
   radio_helpers: [],
   reference: { direction: "SSE", distance: 3.2 },
   runways: [

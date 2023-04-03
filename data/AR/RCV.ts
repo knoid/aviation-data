@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 930,
   frequencies: [],
   identifiers: { local: "RCV" },
-  name: "Río Colorado / Vale",
+  name: "Río Colorado / Vale",
   radio_helpers: [],
   reference: { direction: "NW", distance: 30 },
   runways: [{ type: "asphalt", orientations: ["10", "28"] }],

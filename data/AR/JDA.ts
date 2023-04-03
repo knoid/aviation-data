@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 205,
   frequencies: [],
   identifiers: { local: "JDA" },
-  name: "Jardín de América",
+  name: "Jardín de América",
   radio_helpers: [],
   reference: { direction: "ENE", distance: 1.6 },
   runways: [{ type: "dirt", orientations: ["01", "19"] }],

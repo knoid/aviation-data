@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 87,
   frequencies: [],
   identifiers: { local: "HCP" },
-  name: "Yacimiento Cañadon Alfa / Total Austral S.A.",
+  name: "Yacimiento Cañadon Alfa / Total Austral S.A.",
   radio_helpers: [],
   runways: [],
 });

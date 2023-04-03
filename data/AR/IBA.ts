@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 63,
   frequencies: [],
   identifiers: { local: "IBA" },
-  name: "Inés Indart / Belingueres Aviación",
+  name: "Inés Indart / Belingueres Aviación",
   radio_helpers: [],
   reference: { direction: "NNE", distance: 7.6 },
   runways: [{ type: "dirt", orientations: ["13", "31"] }],

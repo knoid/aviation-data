@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 15,
   frequencies: [],
   identifiers: { local: "HGM" },
-  name: "González Catán / Lar de paz S.A",
+  name: "González Catán / Lar de paz S.A",
   radio_helpers: [],
   reference: { direction: "SW", distance: 0.7 },
   runways: [],

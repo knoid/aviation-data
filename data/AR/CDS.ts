@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 90,
   frequencies: [],
   identifiers: { local: "CDS" },
-  name: "Cañadón Seco",
+  name: "Cañadón Seco",
   radio_helpers: [],
   reference: { direction: "NE", distance: 2.7 },
   runways: [

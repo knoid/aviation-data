@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 696,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { icao: "SAMI", local: "STI" },
-  name: "San Martín",
+  name: "San Martín",
   radio_helpers: [],
   reference: { direction: "NE", distance: 1.6 },
   runways: [

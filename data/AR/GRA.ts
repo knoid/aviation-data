@@ -11,7 +11,7 @@ export default defineAirport({
     { type: "TWR", frequency: 118.3 },
   ],
   identifiers: { icao: "SAWE", local: "GRA", iata: "RGA" },
-  name: "Río Grande",
+  name: "Río Grande",
   radio_helpers: [
     { type: "GP/DME", frequency: 332.6 },
     { type: "ILS/LOC", frequency: 109.5 },

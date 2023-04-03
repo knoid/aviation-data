@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 94,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { icao: "SAZI", local: "BLR" },
-  name: "Bolívar ",
+  name: "Bolívar",
   radio_helpers: [],
   reference: { direction: "NNE", distance: 3.2 },
   runways: [{ type: "asphalt", orientations: ["02", "20"] }],

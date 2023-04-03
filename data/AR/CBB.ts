@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 73,
   frequencies: [],
   identifiers: { local: "CBB" },
-  name: "Cañada Rosquín / B&B Servicios Agropecuarios",
+  name: "Cañada Rosquín / B&B Servicios Agropecuarios",
   radio_helpers: [],
   reference: { direction: "SSW", distance: 3.8 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 486,
   frequencies: [],
   identifiers: { icao: "SACA", local: "FMA" },
-  name: "Córdoba / Capitán D. Omar Darío Gelardi",
+  name: "Córdoba / Capitán D. Omar Darío Gelardi",
   radio_helpers: [],
   reference: { direction: "SW", distance: 3.8 },
   runways: [{ type: "asphalt", orientations: ["16", "34"] }],

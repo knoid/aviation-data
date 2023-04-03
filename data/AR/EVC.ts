@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 123,
   frequencies: [],
   identifiers: { local: "EVC" },
-  name: "Gobernador Valentín Virasoro / Ea. Villa Corina",
+  name: "Gobernador Valentín Virasoro / Ea. Villa Corina",
   radio_helpers: [],
   reference: { direction: "W", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["04", "22"] }],

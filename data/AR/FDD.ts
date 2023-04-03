@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 244,
   frequencies: [],
   identifiers: { local: "FDD" },
-  name: "Fortín Dragones / El Desafío",
+  name: "Fortín Dragones / El Desafío",
   radio_helpers: [],
   reference: { direction: "NE", distance: 1.1 },
   runways: [{ type: "dirt", orientations: ["01", "19"] }],

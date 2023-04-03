@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 16,
   frequencies: [],
   identifiers: { local: "MPU" },
-  name: "Maipú",
+  name: "Maipú",
   radio_helpers: [],
   reference: { direction: "SE", distance: 1.6 },
   runways: [

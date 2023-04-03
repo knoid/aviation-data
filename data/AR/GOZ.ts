@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 19,
   frequencies: [{ type: "COM", frequency: 123 }],
   identifiers: { local: "GOZ" },
-  name: "Gómez",
+  name: "Gómez",
   radio_helpers: [],
   reference: { direction: "SE", distance: 4.3 },
   runways: [{ type: "dirt", orientations: ["09", "27"] }],

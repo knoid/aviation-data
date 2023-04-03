@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 90,
   frequencies: [],
   identifiers: { local: "CON" },
-  name: "Colón / Buenos Aires",
+  name: "Colón / Buenos Aires",
   radio_helpers: [],
   reference: { direction: "SE", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["17", "35"] }],

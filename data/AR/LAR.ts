@@ -11,7 +11,7 @@ export default defineAirport({
     { type: "TWR", frequency: 118.45 },
   ],
   identifiers: { icao: "SANL", local: "LAR", iata: "IRJ" },
-  name: "La Rioja / Capitán Vicente Almandos Almonacid",
+  name: "La Rioja / Capitán Vicente Almandos Almonacid",
   radio_helpers: [
     { type: "GP/DME", frequency: 334.4 },
     { type: "ILS/LOC", frequency: 110.1 },

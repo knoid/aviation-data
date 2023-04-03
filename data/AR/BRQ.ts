@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 870,
   frequencies: [],
   identifiers: { local: "BRQ" },
-  name: "Buta Ranquil / El Portón",
+  name: "Buta Ranquil / El Portón",
   radio_helpers: [],
   reference: { direction: "SE", distance: 12 },
   runways: [

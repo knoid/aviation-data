@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 80,
   frequencies: [],
   identifiers: { local: "NIK" },
-  name: "Lobería / Nika",
+  name: "Lobería / Nika",
   radio_helpers: [],
   reference: { direction: "E", distance: 1.1 },
   runways: [{ type: "dirt", orientations: ["01", "19"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 15,
   frequencies: [],
   identifiers: { local: "UEN" },
-  name: "Quequén / Moromar",
+  name: "Quequén / Moromar",
   radio_helpers: [],
   reference: { direction: "ENE", distance: 17 },
   runways: [

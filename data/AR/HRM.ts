@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 1005,
   frequencies: [],
   identifiers: { local: "HRM" },
-  name: "San Martín de los Andes / Rancho de Montaña",
+  name: "San Martín de los Andes / Rancho de Montaña",
   radio_helpers: [],
   reference: { direction: "E", distance: 2.7 },
   runways: [],

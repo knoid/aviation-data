@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 228,
   frequencies: [],
   identifiers: { local: "VMA" },
-  name: "Vicuña Mackenna / Don Ángel",
+  name: "Vicuña Mackenna / Don Ángel",
   radio_helpers: [],
   reference: { direction: "SW", distance: 1.1 },
   runways: [{ type: "dirt", orientations: ["04", "22"] }],

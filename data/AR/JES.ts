@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 530,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "JES" },
-  name: "Jesús María",
+  name: "Jesús María",
   radio_helpers: [],
   reference: { direction: "ESE", distance: 0.97 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

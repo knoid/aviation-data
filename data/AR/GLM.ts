@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 7,
   frequencies: [],
   identifiers: { local: "GLM" },
-  name: "Gualeguaychú / Blm Cabañas",
+  name: "Gualeguaychú / Blm Cabañas",
   radio_helpers: [],
   reference: { direction: "WSW", distance: 1.2 },
   runways: [{ type: "dirt", orientations: ["01", "19"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 82,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "GOM" },
-  name: "Cañada de Gómez",
+  name: "Cañada de Gómez",
   radio_helpers: [],
   reference: { direction: "E", distance: 0.81 },
   runways: [{ type: "dirt", orientations: ["01", "19"] }],

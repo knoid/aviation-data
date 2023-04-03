@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 36,
   frequencies: [],
   identifiers: { local: "BDR" },
-  name: "Bahía Dorada",
+  name: "Bahía Dorada",
   radio_helpers: [],
   reference: { direction: "SE", distance: 19 },
   runways: [{ type: "asphalt", orientations: ["05", "23"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 241,
   frequencies: [],
   identifiers: { local: "VMB" },
-  name: "Vicuña Mackenna / Beneficios S.R.L.",
+  name: "Vicuña Mackenna / Beneficios S.R.L.",
   radio_helpers: [],
   reference: { direction: "SW", distance: 1.1 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

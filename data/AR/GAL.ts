@@ -12,7 +12,7 @@ export default defineAirport({
     { type: "TWR", frequency: 119.4 },
   ],
   identifiers: { icao: "SAWG", local: "GAL", iata: "RGL" },
-  name: "Río Gallegos / Piloto Civil N. Fernández",
+  name: "Río Gallegos / Piloto Civil N. Fernández",
   radio_helpers: [],
   reference: { direction: "WSW", distance: 2.4 },
   runways: [{ type: "asphalt", orientations: ["07", "25"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 51,
   frequencies: [{ type: "COM", frequency: 118.2 }],
   identifiers: { local: "GIL" },
-  name: "San Andrés de Giles",
+  name: "San Andrés de Giles",
   radio_helpers: [],
   reference: { direction: "SE", distance: 1.6 },
   runways: [{ type: "dirt", orientations: ["16", "34"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 202,
   frequencies: [],
   identifiers: { local: "CSA" },
-  name: "Calchín / Aerocampo Servicios Aéreos",
+  name: "Calchín / Aerocampo Servicios Aéreos",
   radio_helpers: [],
   reference: { direction: "E", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

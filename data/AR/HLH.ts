@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 24,
   frequencies: [],
   identifiers: { local: "HLH" },
-  name: "Luján / Homaq",
+  name: "Luján / Homaq",
   radio_helpers: [],
   reference: { direction: "N", distance: 3.2 },
   runways: [],

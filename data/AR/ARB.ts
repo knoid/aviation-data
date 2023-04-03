@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 82,
   frequencies: [],
   identifiers: { local: "ARB" },
-  name: "Arribeños",
+  name: "Arribeños",
   radio_helpers: [],
   reference: { direction: "SW", distance: 1.8 },
   runways: [{ type: "dirt", orientations: ["14", "32"] }],

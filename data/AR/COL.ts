@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 84,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { icao: "SAZQ", local: "COL" },
-  name: "Río Colorado",
+  name: "Río Colorado",
   radio_helpers: [],
   reference: { direction: "NW", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["05", "23"] }],

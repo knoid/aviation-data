@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 93,
   frequencies: [],
   identifiers: { local: "MEA" },
-  name: "Maipú / Establecimiento el Araza",
+  name: "Maipú / Establecimiento el Araza",
   radio_helpers: [],
   reference: { direction: "SE", distance: 4.6 },
   runways: [{ type: "dirt", orientations: ["08", "26"] }],

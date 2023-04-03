@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 16,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "FVA" },
-  name: "Florencio Varela / El Pájaro",
+  name: "Florencio Varela / El Pájaro",
   radio_helpers: [],
   reference: { direction: "SW", distance: 1.9 },
   runways: [{ type: "dirt", orientations: ["06", "24"] }],

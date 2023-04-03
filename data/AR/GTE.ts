@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 175,
   frequencies: [],
   identifiers: { local: "GTE" },
-  name: "Guatraché",
+  name: "Guatraché",
   radio_helpers: [],
   reference: { direction: "SSW", distance: 1.6 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

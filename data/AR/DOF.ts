@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 89,
   frequencies: [],
   identifiers: { local: "DOF" },
-  name: "Martínez de hoz / Fumigaciones Ortega",
+  name: "Martínez de Hoz / Fumigaciones Ortega",
   radio_helpers: [],
   reference: { direction: "ENE", distance: 4.3 },
   runways: [{ type: "dirt", orientations: ["14", "32"] }],

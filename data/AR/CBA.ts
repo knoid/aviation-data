@@ -15,7 +15,7 @@ export default defineAirport({
     { type: "TWR", frequency: 118.3 },
   ],
   identifiers: { icao: "SACO", local: "CBA", iata: "COR" },
-  name: "Córdoba / Ing. aer. A.L.V. Taravella",
+  name: "Córdoba / Ing. aer. A.L.V. Taravella",
   radio_helpers: [
     { type: "GP/DME", frequency: 756.9 },
     { type: "ILS/LOC", frequency: 110.3 },

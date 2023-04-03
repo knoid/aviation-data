@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 2,
   frequencies: [{ type: "COM", frequency: 122.5 }],
   identifiers: { local: "MGI" },
-  name: "Isla Martín García",
+  name: "Isla Martín García",
   radio_helpers: [],
   runways: [{ type: "asphalt", orientations: ["17", "35"] }],
 });

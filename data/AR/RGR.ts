@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 21,
   frequencies: [],
   identifiers: { local: "RGR" },
-  name: "Río Gallegos / Río Chico",
+  name: "Río Gallegos / Río Chico",
   radio_helpers: [],
   reference: { direction: "SW", distance: 2.7 },
   runways: [{ type: "asphalt", orientations: ["08", "26"] }],

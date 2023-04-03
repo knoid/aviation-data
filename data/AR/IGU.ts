@@ -13,7 +13,7 @@ export default defineAirport({
     { type: "TWR", frequency: 120.7 },
   ],
   identifiers: { icao: "SARI", local: "IGU", iata: "IGR" },
-  name: "Cataratas del Iguazú / My. D. C. E. Krause",
+  name: "Cataratas del Iguazú / My. D. C. E. Krause",
   radio_helpers: [
     { type: "GP/DME", frequency: 330.8 },
     { type: "ILS/LOC", frequency: 110.9 },

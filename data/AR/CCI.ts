@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 56,
   frequencies: [],
   identifiers: { local: "CCI" },
-  name: "Calchaquí",
+  name: "Calchaquí",
   radio_helpers: [],
   reference: { direction: "N", distance: 2.2 },
   runways: [{ type: "dirt", orientations: ["11", "29"] }],

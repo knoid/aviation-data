@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 247,
   frequencies: [],
   identifiers: { local: "PSA" },
-  name: "Pigüé / Servicios Aeronáuticos",
+  name: "Pigüé / Servicios Aeronáuticos",
   radio_helpers: [],
   reference: { direction: "NNW", distance: 4.9 },
   runways: [{ type: "dirt", orientations: ["14", "32"] }],

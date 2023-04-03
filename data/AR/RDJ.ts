@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 25,
   frequencies: [],
   identifiers: { local: "RDJ" },
-  name: "Ricardone / Don José",
+  name: "Ricardone / Don José",
   radio_helpers: [],
   reference: { direction: "NE", distance: 4.3 },
   runways: [{ type: "dirt", orientations: ["16", "34"] }],

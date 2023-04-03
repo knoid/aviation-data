@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 343,
   frequencies: [{ type: "COM", frequency: 123.2 }],
   identifiers: { icao: "SATO", local: "OBE" },
-  name: "Oberá",
+  name: "Oberá",
   radio_helpers: [],
   reference: { direction: "SE", distance: 1.6 },
   runways: [{ type: "asphalt", orientations: ["17", "35"] }],

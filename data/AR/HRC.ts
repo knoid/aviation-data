@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 42,
   frequencies: [],
   identifiers: { local: "HRC" },
-  name: "Carmen de Areco / San Joaquín",
+  name: "Carmen de Areco / San Joaquín",
   radio_helpers: [],
   reference: { direction: "NE", distance: 8.6 },
   runways: [],

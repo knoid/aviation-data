@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 34,
   frequencies: [{ type: "COM", frequency: 123.2 }],
   identifiers: { local: "CDU" },
-  name: "Concepción del Uruguay",
+  name: "Concepción del Uruguay",
   radio_helpers: [],
   reference: { direction: "NW", distance: 4.3 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

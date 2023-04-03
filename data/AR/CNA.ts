@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 30,
   frequencies: [{ type: "COM", frequency: 123 }],
   identifiers: { local: "CNA" },
-  name: "Cañuelas",
+  name: "Cañuelas",
   radio_helpers: [],
   reference: { direction: "SE", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

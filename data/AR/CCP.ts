@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 386,
   frequencies: [],
   identifiers: { local: "CCP" },
-  name: "Concepción",
+  name: "Concepción",
   radio_helpers: [],
   reference: { direction: "W", distance: 1.3 },
   runways: [{ type: "dirt", orientations: ["02", "20"] }],

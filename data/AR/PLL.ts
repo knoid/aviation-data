@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 73,
   frequencies: [],
   identifiers: { local: "PLL" },
-  name: "Pujato / La Lucía",
+  name: "Pujato / La Lucía",
   radio_helpers: [],
   reference: { direction: "NW", distance: 0.81 },
   runways: [{ type: "dirt", orientations: ["15", "33"] }],

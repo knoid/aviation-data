@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 28,
   frequencies: [],
   identifiers: { local: "LLC" },
-  name: "Longchamps / La Caída",
+  name: "Longchamps / La Caída",
   radio_helpers: [],
   reference: { direction: "E", distance: 2.2 },
   runways: [{ type: "dirt", orientations: ["08", "26"] }],

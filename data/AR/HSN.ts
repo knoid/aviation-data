@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 27,
   frequencies: [],
   identifiers: { local: "HSN" },
-  name: "San Nicolás de los Arroyos / Miguel Colombise",
+  name: "San Nicolás de los Arroyos / Miguel Colombise",
   radio_helpers: [],
   reference: { direction: "SW", distance: 1.5 },
   runways: [],

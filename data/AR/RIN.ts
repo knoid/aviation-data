@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 600,
   frequencies: [],
   identifiers: { icao: "SAHS", local: "RIN", iata: "RDS" },
-  name: "Rincón de los Sauces",
+  name: "Rincón de los Sauces",
   radio_helpers: [],
   reference: { direction: "N", distance: 0 },
   runways: [{ type: "asphalt", orientations: ["10", "28"] }],

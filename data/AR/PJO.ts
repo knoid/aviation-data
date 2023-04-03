@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 86,
   frequencies: [],
   identifiers: { local: "PJO" },
-  name: "Pehuajó / La Mariela",
+  name: "Pehuajó / La Mariela",
   radio_helpers: [],
   reference: { direction: "NW", distance: 2.4 },
   runways: [{ type: "dirt", orientations: ["05", "23"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 43,
   frequencies: [],
   identifiers: { local: "NOG" },
-  name: "Nogoyá",
+  name: "Nogoyá",
   radio_helpers: [],
   reference: { direction: "E", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["16", "34"] }],

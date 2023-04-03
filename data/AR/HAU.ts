@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 16,
   frequencies: [],
   identifiers: { local: "HAU" },
-  name: "Buenos Aires / Autódromo Ciudad de bs. As.",
+  name: "Buenos Aires / Autódromo Ciudad de Bs. As.",
   radio_helpers: [],
   runways: [],
 });

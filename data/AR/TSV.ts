@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 70,
   frequencies: [],
   identifiers: { local: "TSV" },
-  name: "Tortugas / Estancia san Vicente",
+  name: "Tortugas / Estancia San Vicente",
   radio_helpers: [],
   reference: { direction: "SSE", distance: 15 },
   runways: [{ type: "dirt", orientations: ["05", "23"] }],

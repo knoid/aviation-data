@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 8,
   frequencies: [],
   identifiers: { local: "HTA" },
-  name: "Concepción del Uruguay / Helipuerto Talitas",
+  name: "Concepción del Uruguay / Helipuerto Talitas",
   radio_helpers: [],
   reference: { direction: "SSW", distance: 9.2 },
   runways: [],

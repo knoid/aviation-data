@@ -12,7 +12,7 @@ export default defineAirport({
     { type: "TWR", frequency: 128.85 },
   ],
   identifiers: { icao: "SASA", local: "SAL", iata: "SLA" },
-  name: "Salta / General D. Martín Miguel de Güemes",
+  name: "Salta / General D. Martín Miguel de Güemes",
   radio_helpers: [
     { type: "GP/DME", frequency: 209.5 },
     { type: "ILS/LOC", frequency: 110.3 },

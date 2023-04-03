@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 702,
   frequencies: [],
   identifiers: { local: "HPG" },
-  name: "Piedra del Águila / Transener S.A.",
+  name: "Piedra del Águila / Transener S.A.",
   radio_helpers: [],
   reference: { direction: "S", distance: 7.3 },
   runways: [],

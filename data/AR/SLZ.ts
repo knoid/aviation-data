@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 104,
   frequencies: [],
   identifiers: { local: "SLZ" },
-  name: "Salazar / Eo. el Triángulo",
+  name: "Salazar / Eo. el Triángulo",
   radio_helpers: [],
   reference: { direction: "SSW", distance: 2.7 },
   runways: [{ type: "dirt", orientations: ["03", "21"] }],

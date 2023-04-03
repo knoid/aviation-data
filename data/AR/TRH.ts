@@ -12,7 +12,7 @@ export default defineAirport({
     { type: "TWR", frequency: 119.85 },
   ],
   identifiers: { icao: "SANR", local: "TRH", iata: "RHD" },
-  name: "Termas de Río Hondo",
+  name: "Termas de Río Hondo",
   radio_helpers: [
     { type: "GP/DME", frequency: 330.5 },
     { type: "ILS/LOC", frequency: 108.7 },

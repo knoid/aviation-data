@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 81,
   frequencies: [],
   identifiers: { local: "HPE" },
-  name: "Paraná / Hospital Materno Infantil san Roque",
+  name: "Paraná / Hospital Materno Infantil San Roque",
   radio_helpers: [],
   runways: [],
 });

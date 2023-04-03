@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 6,
   frequencies: [],
   identifiers: { local: "HIS" },
-  name: "La Matanza / Campanópolis",
+  name: "La Matanza / Campanópolis",
   radio_helpers: [],
   reference: { direction: "WNW", distance: 3.8 },
   runways: [],

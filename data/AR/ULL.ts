@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 16,
   frequencies: [],
   identifiers: { local: "ULL" },
-  name: "Río Cullen / Total Austral",
+  name: "Río Cullen / Total Austral",
   radio_helpers: [],
   reference: { direction: "E", distance: 3.2 },
   runways: [],

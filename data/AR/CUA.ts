@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 424,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "CUA" },
-  name: "Río Cuarto / Aeroclub",
+  name: "Río Cuarto / Aeroclub",
   radio_helpers: [],
   reference: { direction: "SSE", distance: 2.2 },
   runways: [

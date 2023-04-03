@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 62,
   frequencies: [{ type: "COM", frequency: 118.4 }],
   identifiers: { local: "MDB" },
-  name: "Mar del Plata / Batán",
+  name: "Mar del Plata / Batán",
   radio_helpers: [],
   reference: { direction: "W", distance: 6.2 },
   runways: [{ type: "dirt", orientations: ["04", "22"] }],

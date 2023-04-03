@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 39,
   frequencies: [],
   identifiers: { local: "HNP" },
-  name: "Buenos Aires / Hospital nac. De Pediatría J. Garrahan",
+  name: "Buenos Aires / Hospital Nac. De Pediatría J. Garrahan",
   radio_helpers: [],
   runways: [],
 });

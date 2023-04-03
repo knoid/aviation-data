@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 158,
   frequencies: [],
   identifiers: { local: "HUG" },
-  name: "Huanguelén",
+  name: "Huanguelén",
   radio_helpers: [],
   reference: { direction: "N", distance: 1.1 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 24,
   frequencies: [{ type: "COM", frequency: 123.2 }],
   identifiers: { local: "SMM" },
-  name: "San Miguel del Monte / Bahía Agradable",
+  name: "San Miguel del Monte / Bahía Agradable",
   radio_helpers: [],
   reference: { direction: "SE", distance: 2.2 },
   runways: [{ type: "dirt", orientations: ["18", "36"] }],

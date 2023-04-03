@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 103,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "VCC" },
-  name: "Villa Cañás / S.A. Miguel A. Cardone",
+  name: "Villa Cañás / S.A. Miguel A. Cardone",
   radio_helpers: [],
   reference: { direction: "NW", distance: 2.4 },
   runways: [{ type: "dirt", orientations: ["14", "32"] }],

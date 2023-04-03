@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 6,
   frequencies: [],
   identifiers: { local: "HFA" },
-  name: "Buenos Aires / Fuerza Aérea (Edificio Cóndor)",
+  name: "Buenos Aires / Fuerza Aérea (Edificio Cóndor)",
   radio_helpers: [],
   reference: { direction: "NE", distance: 0.27 },
   runways: [],

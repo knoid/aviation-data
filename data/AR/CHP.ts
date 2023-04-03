@@ -12,7 +12,7 @@ export default defineAirport({
     { type: "TWR", frequency: 119.6 },
   ],
   identifiers: { icao: "SAZY", local: "CHP", iata: "CPC" },
-  name: "San Martín de los Andes / Aviador C. Campos",
+  name: "San Martín de los Andes / Aviador C. Campos",
   radio_helpers: [],
   reference: { direction: "ENE", distance: 11 },
   runways: [{ type: "asphalt", orientations: ["06", "24"] }],

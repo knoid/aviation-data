@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 21,
   frequencies: [],
   identifiers: { local: "HPM" },
-  name: "La Plata / Helipuerto Policlínico san Martín",
+  name: "La Plata / Helipuerto Policlínico San Martín",
   radio_helpers: [],
   runways: [],
 });

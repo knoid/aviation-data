@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 45,
   frequencies: [],
   identifiers: { local: "CSP" },
-  name: "Capitán Sarmiento / San Patricio",
+  name: "Capitán Sarmiento / San Patricio",
   radio_helpers: [],
   reference: { direction: "NNE", distance: 9 },
   runways: [{ type: "dirt", orientations: ["14", "32"] }],

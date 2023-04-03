@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 237,
   frequencies: [],
   identifiers: { local: "TIO" },
-  name: "Tío Pujio",
+  name: "Tío Pujio",
   radio_helpers: [],
   reference: { direction: "0", distance: 4.9 },
   runways: [{ type: "dirt", orientations: ["15", "33"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 20,
   frequencies: [],
   identifiers: { local: "HNO" },
-  name: "Heliplataforma / Río Cullen-Hidra Nort",
+  name: "Heliplataforma / Río Cullen-Hidra Nort",
   radio_helpers: [],
   runways: [],
 });

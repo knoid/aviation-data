@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 34,
   frequencies: [],
   identifiers: { local: "HLF" },
-  name: "Capilla del Señor / Los Fresnos",
+  name: "Capilla del Señor / Los Fresnos",
   radio_helpers: [],
   reference: { direction: "NW", distance: 1.2 },
   runways: [],

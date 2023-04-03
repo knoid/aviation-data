@@ -7,7 +7,7 @@ export default defineAirport({
   coordinates: [-34.62027778, -68.32583333],
   frequencies: [],
   identifiers: { local: "HHS" },
-  name: "Helipuerto Elevado san Rafael / Hospital Teodoro J. Schestakow",
+  name: "Helipuerto Elevado San Rafael / Hospital Teodoro J. Schestakow",
   radio_helpers: [],
   runways: [],
 });

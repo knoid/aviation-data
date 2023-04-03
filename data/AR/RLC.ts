@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 165,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "RLC" },
-  name: "Realicó",
+  name: "Realicó",
   radio_helpers: [],
   reference: { direction: "ESE", distance: 3.2 },
   runways: [{ type: "asphalt", orientations: ["14", "32"] }],

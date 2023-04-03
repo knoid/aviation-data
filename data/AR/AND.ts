@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 900,
   frequencies: [],
   identifiers: { local: "AND" },
-  name: "Andalgalá",
+  name: "Andalgalá",
   radio_helpers: [],
   reference: { direction: "W", distance: 0.54 },
   runways: [{ type: "asphalt", orientations: ["07", "25"] }],

@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 4,
   frequencies: [{ type: "COM", frequency: 123.5 }],
   identifiers: { local: "LEN" },
-  name: "Belén de Escobar",
+  name: "Belén de Escobar",
   radio_helpers: [],
   reference: { direction: "S", distance: 0 },
   runways: [{ type: "dirt", orientations: ["15", "33"] }],

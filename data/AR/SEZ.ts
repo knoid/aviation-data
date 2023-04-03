@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 100,
   frequencies: [],
   identifiers: { local: "SEZ" },
-  name: "General Pinto / Alfredo Sánchez",
+  name: "General Pinto / Alfredo Sánchez",
   radio_helpers: [],
   reference: { direction: "SE", distance: 3.2 },
   runways: [{ type: "dirt", orientations: ["10", "28"] }],

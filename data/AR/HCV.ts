@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 55,
   frequencies: [],
   identifiers: { local: "HCV" },
-  name: "Cabo Vírgenes / Brm Cabo Vírgenes",
+  name: "Cabo Vírgenes / BRM Cabo Vírgenes",
   radio_helpers: [],
   reference: { direction: "SE", distance: 65 },
   runways: [],

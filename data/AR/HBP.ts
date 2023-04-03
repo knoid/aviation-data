@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 5,
   frequencies: [],
   identifiers: { local: "HBP" },
-  name: "Bahía Blanca / Helipuerto pbb Polisur S.A.",
+  name: "Bahía Blanca / Helipuerto PBB Polisur S.A.",
   radio_helpers: [],
   reference: { direction: "SSW", distance: 3.5 },
   runways: [],

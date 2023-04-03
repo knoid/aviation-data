@@ -8,7 +8,7 @@ export default defineAirport({
   elevation: 440,
   frequencies: [],
   identifiers: { local: "HCU" },
-  name: "Córdoba / Ciudad Universitaria",
+  name: "Córdoba / Ciudad Universitaria",
   radio_helpers: [],
   runways: [],
 });
