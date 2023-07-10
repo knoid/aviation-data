@@ -10,7 +10,7 @@
   "author": "",
   "license": "SEE LICENSE FILE",
   "devDependencies": {
-    "@types/node": "^18.15.11",
+    "@types/node": "^20.4.1",
     "ts-node": "^10.9.1",
     "ts-node-test": "^0.4.1",
     "typescript": "^5.0.3"
